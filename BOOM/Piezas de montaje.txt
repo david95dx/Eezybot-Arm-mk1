@@ -1,0 +1,54 @@
+· n°1 EBA_01.00.001.STL
+
+· n°1 EBA_01.00.002_vertical_drive_arm.STL
+
+· n°3 EBA_01.00.003_link.STL
+
+· n°1 EBA_01.00.004_forward_drive_arm.STL
+
+· n°1 EBA_01.00.005_horizontal_arm.STL
+
+· n°1 EBA_01.00.006_triangular_link.STL
+
+· n°2 EBA_01.00.009_servo_plate.STL
+
+· n°1 EBA_01.00.010_basement.STL
+
+· n°1 EBA_01.00.011_round_plate.STL
+
+· n°1 EBA_01.00.012_R01_claw_support.STL
+
+· n°1 EBA_01.00.013_R01_right_finger.STL
+
+· n°1 EBA_01.00.014_R01_left_finger.STL
+
+· n°1 EBA_01.00.015_drive_gear.STL
+
+· n°1 EBA_01.00.016_R01_driven_gear.STL 
+
+Tornillería  y electrónica:
+n* 1 Arduino UNO rev 3
+
+n* 3 Mini servos MG90S 
+
+n* 1 Mini servo SG90 servo (gripper) 
+
+n° 7 M4 Tuercas autoblocantes
+
+n° 15 M4 Arandelas
+
+n° 7 M3 Tuercas
+
+n° 1 M3 x 30 Tornillos
+
+n° 2 M3 Arandelas
+
+n° 4 M3 x 12 hex screw
+
+n° 2 M3 x 12 Tornillos de cabeza cilíndrica 
+
+n° 2 M3 x 20 Tornillos de cabeza cilíndrica (los tornillos de cabeza cilíndrica no son necesarios)
+
+n° 5 M4 x 20 tornillo hexagonal de cabeza redonda (no es necesario que sea hexagonal, ni cabeza redonda)
+
+n° 1 tubos de 4 x 3 x 22 + n°1 4 x 3 x 26 (Aquí lo que hemos usado han sido tornillos de esas dimensiones. Previamente hemos pasado la pieza de plástico por donde iban cocn el taladro para evitar los rozamientos)

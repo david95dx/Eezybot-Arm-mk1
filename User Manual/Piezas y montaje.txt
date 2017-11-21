@@ -1,0 +1,2 @@
+Para el manual de montaje, vamos a redireccionar a un enlace de instructables: http://www.instructables.com/id/EEZYbotARM/
+Los joystick los adquirí en Ebay, a través de este comprador: https://www.ebay.es/itm/Arduino-Joystick-XY-KY-023-movimiento-eje-x-y-dual-PS2-mame-32-recreativa-casera/222431514623?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649
